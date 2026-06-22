@@ -1,5 +1,5 @@
 # Network-AI-Assistant
-An Open-Source Network SIEM & AI Assistant integration. Features structured log parsing using Graylog/OpenSearch and a localized RAG chatbot (Ollama + Node-Red) for interactive network anomaly troubleshooting.
+Agentic-based Advanced RAG for Structured Log Analytics An Open-Source Network SIEM & AI Assistant integration. Features structured log parsing using Graylog/OpenSearch and a localized RAG chatbot (Ollama + Node-Red) for interactive network anomaly troubleshooting.
 
 ## Network Topology
 <img width="1200" height="1623" alt="image" src="https://github.com/user-attachments/assets/1163e106-331a-4eda-b5ec-f465c4557f1f" />
